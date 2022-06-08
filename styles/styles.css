@@ -132,3 +132,12 @@ body {
   color: rgba(65, 185, 131, 1);
   background-color: white;
 }
+
+.winning-message-text {
+  color: white;
+  font-size: 5rem;
+  }
+
+  .show-winning-message {
+    display: flex;
+  }
